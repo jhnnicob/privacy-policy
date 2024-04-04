@@ -1,5 +1,3 @@
-# Privacy Policy
-
 Distriware INC. ("us", "we", or "our") operates the Distriware mobile application (the "App").
 
 This page outlines our privacy policy regarding the collection, use, and disclosure of personal data when you use our App. By using the App, you agree to the terms of this policy.
